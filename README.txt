@@ -44,4 +44,6 @@ The model is trained using a CNN algorithm.
 /************************************************************
                           VIDEO DEMO
 ************************************************************/
+https://youtube.com/shorts/bEUPPwgqJIA
+
 This is not comprehensive and can be modified as needed.
